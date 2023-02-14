@@ -1,2 +1,2 @@
-# PatikaVeriYapilariVeAlgoritmalar
-Patika.dev Veri Yapilari Ve Algoritmalar - Projeler
+Patika Profil Linkim:
+https://app.patika.dev/denizceylan
